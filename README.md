@@ -1,4 +1,4 @@
-<img width="586" height="455" alt="image" src="https://github.com/user-attachments/assets/88305b69-c1f2-482c-bd96-12385d15d2a1" /># Customer_Life_Value_Prediction_Celebal
+# Customer_Life_Value_Prediction_Celebal
 
 Understanding customer behavior is essential for enhancing business strategies and improving retention. This project leverages **RFM analysis** to evaluate and segment customers based on their purchasing patterns.
 
@@ -27,19 +27,19 @@ RFM Segmentation
 Used quantiles or K-means clustering to divide customers based on RFM scores
 
 
-Recency_>
+
 <img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/a325b9b9-0624-4dc4-83e4-524d7040d365" />
-Frequency->
+
 <img width="586" height="455" alt="image" src="https://github.com/user-attachments/assets/e248a94d-c4b3-4a5b-b8bf-166584e8d6a8" />
-Monetary->
+
 <img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/d9b22193-71c5-424f-b2a7-7f9ac5be98c0" />
-Customer Cluster->
+
 <img width="859" height="547" alt="image" src="https://github.com/user-attachments/assets/cdb5921e-f3ef-42bb-97cb-9662d9bdd9d9" />
-RFM Segments->
+
 <img width="863" height="335" alt="image" src="https://github.com/user-attachments/assets/752ec4cd-df79-4bbc-aa87-d1a8923cf6d8" />
-Potential Loyalists->
+
 <img width="823" height="640" alt="image" src="https://github.com/user-attachments/assets/ec6c7ba1-9a5d-4815-8671-9e115913bc90" />
-Customer Segment by frequency->
+
 <img width="1248" height="736" alt="image" src="https://github.com/user-attachments/assets/1a0e3ded-264c-443d-a4bf-16f0b90e4c73" />
 
 
